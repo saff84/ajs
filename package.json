@@ -1,0 +1,19 @@
+{
+  "name": "@saff84/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saff84/ajs.git"
+  },
+  "author": "saff84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saff84/ajs/issues"
+  },
+  "homepage": "https://github.com/saff84/ajs#readme"
+}
